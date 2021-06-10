@@ -1,0 +1,8 @@
+{
+    "theme": {
+        "back_color": "black",
+        "main_color": "white",
+        "player_color": "white",
+        "food_color": "white"
+    }
+}
