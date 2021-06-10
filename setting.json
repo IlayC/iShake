@@ -1,0 +1,7 @@
+{
+    "game": {
+        "fps": 60,
+        "speed": 1,
+        "way": "right"
+    }
+}
